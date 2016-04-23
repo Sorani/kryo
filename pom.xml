@@ -18,7 +18,7 @@
 
 	<licenses>
 		<license>
-			<name>New BSD License</name>
+			<name>momo</name>
 			<url>http://www.opensource.org/licenses/bsd-license.php</url>
 			<distribution>repo</distribution>
 		</license>
